@@ -5,7 +5,7 @@ Fork on GitHub3408
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm studying computer science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-warrier&label=Vue%20sur%20le%20profil&color=c40000&style=flat" alt="thomas-warrier" /> </p>
+
 
 - 🔭 I’m currently working on [a web extension for netflix subtitles](https://github.com/thomas-warrier/Subtitle-translator)
 
@@ -22,3 +22,5 @@ Fork on GitHub3408
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-warrier&show_icons=true&locale=en&layout=compact" alt="thomas-warrier" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-warrier&show_icons=true&locale=en" alt="thomas-warrier" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-warrier&label=Vue%20sur%20le%20profil&color=c40000&style=flat" alt="thomas-warrier" /> </p>
