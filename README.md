@@ -21,7 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-warrier&show_icons=true&theme=cobalt&title_color=61dafb&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact" alt="thomas-warrier" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-warrier&show_icons=true&title_color=61dafb&text_color=ffffff&bg_color=0d1117&locale=en" alt="thomas-warrier" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-warrier&show_icons=true&locale=en&layout=compact" alt="thomas-warrier" /></p>
+
 
 
 <p align="left">
