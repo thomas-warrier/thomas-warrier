@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm studying computer science</h3>
 
@@ -20,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-warrier&show_icons=true&locale=en" alt="thomas-warrier" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-warrier&label=Vue%20sur%20le%20profil&color=c40000&style=flat" alt="thomas-warrier" /> </p>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
